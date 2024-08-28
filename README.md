@@ -8,7 +8,7 @@ This project is a complete user authentication and profile management system bui
 
 
 ![Node.js](https://img.shields.io/badge/Nodejs.js-v20.16.0-green.svg)
-![Mysql](https://img.shields.io/badge/Mysql-v8.0.39-green.svg)
+![Mysql](https://img.shields.io/badge/Mysql-v8.0.39-blue.svg)
 
 ## Features
 - **User Authentication**: Secure registration and login with password hashing by using express sessions.
