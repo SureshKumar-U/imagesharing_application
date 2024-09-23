@@ -3,9 +3,6 @@ An ImageSharing application where users can effortlessly share their photos with
 
 ### Features
 
-# User Authentication and Profile Management System
-This project is a complete user authentication and profile management system built with React, Node.js, Express, and MySQL. It provides a secure way for users to register, log in, and manage their profile information.
-
 
 ![Node.js](https://img.shields.io/badge/Nodejs.js-v20.16.0-green.svg)
 ![Mysql](https://img.shields.io/badge/Mysql-v8.0.39-blue.svg)
